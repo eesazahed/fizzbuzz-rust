@@ -1,5 +1,7 @@
 
 fn main() {
+    println!("\nFizzbuzz made in Rust\n\nby Eesa Zahed\nhttps://github.com/eesazahed\n");
+
     fizzbuzz();
 }
 
