@@ -1,8 +1,8 @@
 # Fizzbuzz
 
-I'm trying to learn a new programming language (Rust)
+I'm trying to learn Rust
 
-Install rust (macOS):
+Install Rust (macOS):
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
