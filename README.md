@@ -1,6 +1,6 @@
 # Fizzbuzz
 
-I'm trying to learn Rust
+Fizzbuzz made in Rust.
 
 Install Rust (macOS):
 
